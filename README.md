@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.io/henriquepassos/integer_programming.svg)](http://hits.dwyl.io/henriquepassos/integer_programming)
 
-This is a example for: how to run IBM CPLEX in Java.
+This is a example: how to run IBM CPLEX in Java.
 
 In order to make the cplex.jar as maven project dependency, using maven-assembly-plugin with jar-with-dependencies property, run the follow command:
 ~~~~
