@@ -34,6 +34,6 @@ To execute this program on IntelliJ without maven (exec:java), set the **VM opti
     * manage dependencies,
     * assembly,
     * and exec the program
-* It is high recommended to use the IntelliJ IDEA Community Edition
+* It is high recommended IntelliJ IDEA Community Edition usage
 
 Code created by Alexandre da Silva Freire
